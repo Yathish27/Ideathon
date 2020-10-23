@@ -1,7 +1,0 @@
-﻿PARAMETERS,DESIRABLE LIMIT,PERMISSIBLE LIMIT,SAMPLES
-Ph,6.5-8.5,8.5,9.5
-TDS(mg/l),500,2000,2020
-Chloride(mg/l),250,1000,1159
-Calcium(mg/l),75,200,860
-Alkalinity(mg/l),200,600,172
-Total hardness(mg/l),300,600,100
